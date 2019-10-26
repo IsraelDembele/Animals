@@ -1,0 +1,16 @@
+.ligne{
+    margin: 5px;
+}
+
+.anim{
+    display: none;
+    width: 100px;
+    height: 150px;
+    margin: 5px;
+}
+
+.still{
+    width: 100px;
+    height: 150px;
+    margin: 5px;
+}
